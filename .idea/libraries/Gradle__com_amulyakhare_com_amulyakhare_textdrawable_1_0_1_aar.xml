@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amulyakhare:com.amulyakhare.textdrawable:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/c2f3e1dc222a121e3e11e192f44347cbbfbb872e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/c2f3e1dc222a121e3e11e192f44347cbbfbb872e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

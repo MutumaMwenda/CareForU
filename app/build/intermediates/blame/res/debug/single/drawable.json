@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_signup.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_signup.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medreminder.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\medreminder.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_group_dialog.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_add_group_dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\girlfour.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\girlfour.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_person_low.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_person_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_emoji_travel.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\174358b6ff7954256d12baddac8975a4bd738728\\output\\res\\drawable\\selector_emoji_travel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\5a9656409811ed35b22e6c3a4210e1a537cd8ce2\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_btn_more.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_btn_more.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flask.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\flask.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tip5.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\tip5.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\state_list_animator_z.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\state_list_animator_z.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grey_bubble.9.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\grey_bubble.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_avata.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\default_avata.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\health_tips.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\health_tips.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_emoji_activity.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\174358b6ff7954256d12baddac8975a4bd738728\\output\\res\\drawable\\selector_emoji_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_emoji_objects.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\174358b6ff7954256d12baddac8975a4bd738728\\output\\res\\drawable\\selector_emoji_objects.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corner.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_accept_cr_group.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_accept_cr_group.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remind.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\remind.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notify_group.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_notify_group.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\eebd9b145ce053795bb23063cd479e6c34e9f693\\output\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tip3.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\tip3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\5a9656409811ed35b22e6c3a4210e1a537cd8ce2\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_shape_2.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\bt_shape_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_upcoming_stop.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_mini_controller_upcoming_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_person.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_tab_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\eebd9b145ce053795bb23063cd479e6c34e9f693\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_edit_2.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\selector_bg_edit_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\med_remind.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\med_remind.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\6a2b5c7631aa818daa1b14ff684340d1256901c1\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\eebd9b145ce053795bb23063cd479e6c34e9f693\\output\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\eebd9b145ce053795bb23063cd479e6c34e9f693\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corner2.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\rounded_corner2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\5a9656409811ed35b22e6c3a4210e1a537cd8ce2\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_top.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\shadow_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hieuapp.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\hieuapp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospitals.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\hospitals.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\med.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\med.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_upcoming_play.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_mini_controller_upcoming_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_boder.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\edittext_boder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\firstaidtips.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\firstaidtips.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_group.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_tab_group.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_emoji_recent.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\174358b6ff7954256d12baddac8975a4bd738728\\output\\res\\drawable\\selector_emoji_recent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doctor_chat.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\doctor_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\5a9656409811ed35b22e6c3a4210e1a537cd8ce2\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\eebd9b145ce053795bb23063cd479e6c34e9f693\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_shape.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\bt_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_float_button.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_float_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_background.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\eebd9b145ce053795bb23063cd479e6c34e9f693\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dialog_delete_group.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_dialog_delete_group.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tip1.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\tip1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pass_reset.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_pass_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\careforu.PNG",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\careforu.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medicines.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\medicines.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_infor.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_tab_infor.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_bubble.9.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\green_bubble.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_edit.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\selector_bg_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nosebleeding.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\nosebleeding.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_input_cursor_2.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\bg_input_cursor_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_edit_text.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\border_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\girlone.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\girlone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\eebd9b145ce053795bb23063cd479e6c34e9f693\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_emoji_symbols.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\174358b6ff7954256d12baddac8975a4bd738728\\output\\res\\drawable\\selector_emoji_symbols.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\5a9656409811ed35b22e6c3a4210e1a537cd8ce2\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\eebd9b145ce053795bb23063cd479e6c34e9f693\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\eebd9b145ce053795bb23063cd479e6c34e9f693\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dil.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\dil.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\eebd9b145ce053795bb23063cd479e6c34e9f693\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\6a2b5c7631aa818daa1b14ff684340d1256901c1\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_send_message.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\bg_button_send_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\5a9656409811ed35b22e6c3a4210e1a537cd8ce2\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tip2.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\tip2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tip4.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\tip4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_friend.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_add_friend.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_emoji_nature.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\174358b6ff7954256d12baddac8975a4bd738728\\output\\res\\drawable\\selector_emoji_nature.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\girlthree.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\girlthree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_float_add_group.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_float_add_group.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boytwo.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\boytwo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_without_top.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\border_without_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\girl.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\girl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_send.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_textview.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\rounded_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_emoji_people.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\174358b6ff7954256d12baddac8975a4bd738728\\output\\res\\drawable\\selector_emoji_people.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_emoji_food.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\174358b6ff7954256d12baddac8975a4bd738728\\output\\res\\drawable\\selector_emoji_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corner1.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\rounded_corner1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smiley.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\smiley.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\5a9656409811ed35b22e6c3a4210e1a537cd8ce2\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\eebd9b145ce053795bb23063cd479e6c34e9f693\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\fcd42cdebf3c821454d532a3816d1e71803f6ec2\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dil_tran.png",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\dil_tran.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\f098eb370f5ded3e6ff419da15b195fce059ef4e\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_input_cursor.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\bg_input_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boythree.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\boythree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\e58bb1274e31354246f73a50f01eadce4fa9db5e\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\5a9656409811ed35b22e6c3a4210e1a537cd8ce2\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\eebd9b145ce053795bb23063cd479e6c34e9f693\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boy.jpg",
+        "source": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\src\\main\\res\\drawable\\boy.jpg"
+    }
+]

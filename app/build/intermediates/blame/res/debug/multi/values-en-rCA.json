@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ian.Mutuma\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\CareForU\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\Ian.Mutuma\\.android\\build-cache\\ecf888ef29c507f673e6e3b1488b3dd361b3cb37\\output\\res\\values-en-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 103,
+                        "endOffset": 391
+                    }
+                }
+            }
+        ]
+    }
+]

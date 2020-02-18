@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "483308924106",
+    "firebase_url": "https://care-for-u-e0948.firebaseio.com",
+    "project_id": "care-for-u-e0948",
+    "storage_bucket": "care-for-u-e0948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483308924106:android:f5570fb0c6667ee6",
+        "android_client_info": {
+          "package_name": "com.cbitss.careforu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483308924106-35hf3s1qiosdsruc4o48b3bi0nf54ral.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJLHzrqeF6WT-C_Pjzm4oiNczMfhTfF4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
